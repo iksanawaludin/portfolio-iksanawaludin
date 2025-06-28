@@ -33,7 +33,7 @@ function App() {
   </div>
   <div className="flex justify-between border-b pb-2 mt-2">
     <span className="font-semibold text-gray-700">NIM:</span>
-    <span className="text-gray-900">123456789</span>
+    <span className="text-gray-900">STI202202765</span>
   </div>
 </div>
 
